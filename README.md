@@ -1,4 +1,4 @@
-## Hello Word! Eu sou a Fabio Nobre, desenvolvedor de conteúdo de programação e tecnologia!
+## Hello world! Eu sou Fabio Nobre, criador de conteudo e desenvolvedor de programação!
 <div align="center">
   <a href="https://github.com/fabiohcnobre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiohcnobre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
