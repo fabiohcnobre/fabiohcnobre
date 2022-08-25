@@ -7,14 +7,14 @@
 
 <div align="center"><br>
   <h2>## Technologies: </h2>
-	<img align="center" alt="Fabio-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg">
+	<img align="center" alt="Fabio-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 	<img align="center" alt="Fabio-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-	<img align="center" alt="Fabio-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+	<img align="center" alt="Fabio-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 	<img align="center" alt="Fabio-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 	<img align="center" alt="Fabio-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 	<img align="center" alt="Fabio-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 	<img align="center" alt="Fabio-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-	<img align="center" alt="Fabio-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
+	<img align="center" alt="Fabio-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 	<img align="center" alt="Fabio-nuget" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg">
 	<img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
