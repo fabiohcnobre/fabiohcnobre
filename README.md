@@ -31,9 +31,8 @@
 	<a href="https://www.linkedin.com/in/fabiohcnobre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **fabiohcnobre/fabiohcnobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
