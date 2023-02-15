@@ -32,6 +32,8 @@
 </div>
 
 ![Snake animation](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **fabiohcnobre/fabiohcnobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
