@@ -1,4 +1,4 @@
-## Hello world! Eu sou Fabio Nobre, criador de conteudo e desenvolvedor de programação!
+## Hello world! I'm Fabio Nobre, content creator and programming developer!
 <div align="center">
   <a href="https://github.com/fabiohcnobre">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiohcnobre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,14 +9,14 @@
   <h2>## Technologies: </h2>
 	<a href="https://github.com" ><img align="center" alt="Fabio-github" height="30" width="40" fill="#5A45FF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </a>
 	<a href="https://dotnet.microsoft.com/pt-br/download" > <img align="center" alt="Fabio-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></a>
-	<img align="center" alt="Fabio-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" href="https://github.com">
-	<img align="center" alt="Fabio-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-	<img align="center" alt="Fabio-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-	<img align="center" alt="Fabio-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-	<img align="center" alt="Fabio-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-	<img align="center" alt="Fabio-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-	<img align="center" alt="Fabio-nuget" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg">
-	<img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+	<a href="https://www.microsoft.com/pt-br/sql-server" > <img align="center" alt="Fabio-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> </a>
+	<a href="https://www.mongodb.com/" ><img align="center" alt="Fabio-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
+	<a href="https://mysql.com" ><img align="center" alt="Fabio-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+	<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" ><img align="center" alt="Fabio-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
+	<a href="https://www.java.com/" ><img align="center" alt="Fabio-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+	<a href="https://visualstudio.microsoft.com/" ><img align="center" alt="Fabio-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a>
+	<a href="https://www.nuget.org/" ><img align="center" alt="Fabio-nuget" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg"></a>
+	<a href="https://www.android.com/intl/pt-BR_br/" ><img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></a>
 </div>
 
 <div align="center"> 
