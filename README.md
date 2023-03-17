@@ -7,7 +7,7 @@
 
 <div align="center"><br>
   <h2>## Technologies: </h2>
-	<a href="https://github.com" ><img align="center" alt="Fabio-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </a>
+	<a href="https://github.com" ><img align="center" alt="Fabio-github" height="30" width="40" fill="#5A45FF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </a>
 	<a href="https://dotnet.microsoft.com/pt-br/download" > <img align="center" alt="Fabio-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></a>
 	<img align="center" alt="Fabio-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" href="https://github.com">
 	<img align="center" alt="Fabio-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
