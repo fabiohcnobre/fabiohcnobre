@@ -3,7 +3,7 @@ Content creator and programming developer!
 
 [![Twitter Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=FFFF00&logo=twitter&logoColor=black&link=https://twitter.com/fabiohcnobre)](https://twitter.com/fabiohcnobre) 
 [![Linkedin Badge](https://img.shields.io/badge/-fabiohcnobre-FFFF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/fabiohcnobre/) 
-[![Hotmail Badge](https://img.shields.io/badge/-fabiohcnobre@hotmail.com-0511F2?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:fabiohcnobre@hotmail.com)](mailto:fabiohcnobre@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-fabiohcnobre@hotmail.com-0511F2?style=flat-square&logo=Outlook&logoColor=white&link=mailto:fabiohcnobre@hotmail.com)](mailto:fabiohcnobre@hotmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0D0D?style=flat-square&logo=Youtube&logoColor=white&link=fabiohcnobre)](https://www.youtube.com/fabiohcnobre)
 
 
