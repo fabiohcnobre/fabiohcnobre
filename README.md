@@ -1,4 +1,9 @@
 ## Hello world! I'm Fabio Nobre, content creator and programming developer!
+[![Twitter Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/fabiohcnobre)](https://twitter.com/fabiohcnobre) 
+[![Linkedin Badge](https://img.shields.io/badge/-fabiohcnobre-FFFF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/fabiohcnobre/) 
+
+
+
 <div align="center">
   <a href="https://github.com/fabiohcnobre">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiohcnobre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
