@@ -30,8 +30,10 @@ Enthusiast of the best web & mobile development technologies.
 	<a href="https://www.android.com/intl/pt-BR_br/" ><img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></a>
 </div>
 
-	![GitHub Snake Light](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake.svg#gh-light-mode-only)
-	![GitHub Snake dark](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+<h2>## Snake Game: </h2>
+![GitHub Snake Light](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+	
 <!--
 **fabiohcnobre/fabiohcnobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
