@@ -1,5 +1,5 @@
 ## Hello world! I'm Fabio Nobre, content creator and programming developer!
-[![Twitter Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/fabiohcnobre)](https://twitter.com/fabiohcnobre) 
+[![Twitter Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=FFFF00&logo=twitter&logoColor=white&link=https://twitter.com/fabiohcnobre)](https://twitter.com/fabiohcnobre) 
 [![Linkedin Badge](https://img.shields.io/badge/-fabiohcnobre-FFFF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/fabiohcnobre/) 
 
 
