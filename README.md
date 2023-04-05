@@ -29,6 +29,8 @@ Enthusiast of the best web & mobile development technologies.
 	<a href="https://www.nuget.org/" ><img align="center" alt="Fabio-nuget" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg"></a>
 	<a href="https://www.android.com/intl/pt-BR_br/" ><img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></a>
 </div>
+	
+<h2>## Technologies: </h2>
 
 ![GitHub Snake Light](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake-dark.svg#gh-dark-mode-only)
