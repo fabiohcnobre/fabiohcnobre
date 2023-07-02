@@ -9,11 +9,6 @@ Content creator and programming developer!
 
 Enthusiast of the best web & mobile development technologies.
 
-<div align="center">
- <h2>## Git Stats: </h2>
-  <a href="https://github.com/fabiohcnobre">
-  
-</div>
 
 <div align="center"><br>
   <h2>## Technologies: </h2>
