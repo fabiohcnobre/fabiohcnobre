@@ -24,6 +24,7 @@ Enthusiast of the best web & mobile development technologies.
 	<a href="https://www.nuget.org/" ><img align="center" alt="Fabio-nuget" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg"></a>
 	<a href="https://www.android.com/intl/pt-BR_br/" ><img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></a>
 </div>
+<br/>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Analytic&fontSize=40)
 
