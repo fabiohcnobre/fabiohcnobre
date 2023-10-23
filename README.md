@@ -1,5 +1,4 @@
 # Hello world! I'm Fabio Nobre, 
-Content creator and programming developer!
 
 [![Twitter Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=FFFF00&logo=twitter&logoColor=black&link=https://twitter.com/fabiohcnobre)](https://twitter.com/fabiohcnobre) 
 [![Linkedin Badge](https://img.shields.io/badge/-fabiohcnobre-FFFF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/fabiohcnobre/) 
@@ -7,11 +6,14 @@ Content creator and programming developer!
 [![Youtube Badge](https://img.shields.io/badge/-youtube/fabiohcnobre-FF0D0D?style=flat-square&logo=Youtube&logoColor=white&link=fabiohcnobre)](https://www.youtube.com/fabiohcnobre)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch/fabiohcnobre-0DF205?style=flat-square&logo=Twitch&logoColor=white&link=fabiohcnobre)](https://www.twitch.com/fabiohcnobre)
 
+Content creator and programming developer!
+
 Enthusiast of the best web & mobile development technologies.
 
 
 <div align="center"><br>
-  <h2>## Technologies: </h2>
+   ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Technologies&fontSize=40)
+
 	<a href="https://github.com" ><img align="center" alt="Fabio-github" height="30" width="40" fill="#5A45FF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </a>
 	<a href="https://dotnet.microsoft.com/pt-br/download" > <img align="center" alt="Fabio-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></a>
 	<a href="https://www.microsoft.com/pt-br/sql-server" > <img align="center" alt="Fabio-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> </a>
@@ -25,23 +27,11 @@ Enthusiast of the best web & mobile development technologies.
 </div>
 	
 <div align="center">
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Analytic&fontSize=40)
+
 <h2>## Snake Game: </h2>
 </div>
 	
 ![GitHub Snake Light](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 	
-<!--
-**fabiohcnobre/fabiohcnobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
