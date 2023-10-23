@@ -32,11 +32,11 @@ Enthusiast of the best web & mobile development technologies.
 
 <div align="center">
 
-![Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiohcnobre&theme=blueberry)
-![Github](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabiohcnobre&theme=blueberry)
-![Github](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabiohcnobre&theme=blueberry)
-![Github](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabiohcnobre&theme=blueberry)
-![Github](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiohcnobre&theme=blueberry&utcOffset=3)
+![Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiohcnobre&theme=transparent)
+![Github](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabiohcnobre&theme=transparent)
+![Github](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabiohcnobre&theme=transparent)
+![Github](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabiohcnobre&theme=transparent)
+![Github](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiohcnobre&theme=transparent&utcOffset=3)
 
 <br/>	
 
