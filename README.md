@@ -10,9 +10,9 @@ Content creator and programming developer!
 
 Enthusiast of the best web & mobile development technologies.
 
-<div align="center"></br>
-   ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Technologies&fontSize=40)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Technologies&fontSize=40)
 
+<div align="center">  
 	<a href="https://github.com" ><img align="center" alt="Fabio-github" height="30" width="40" fill="#5A45FF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </a>
 	<a href="https://dotnet.microsoft.com/pt-br/download" > <img align="center" alt="Fabio-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></a>
 	<a href="https://www.microsoft.com/pt-br/sql-server" > <img align="center" alt="Fabio-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> </a>
@@ -24,13 +24,12 @@ Enthusiast of the best web & mobile development technologies.
 	<a href="https://www.nuget.org/" ><img align="center" alt="Fabio-nuget" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg"></a>
 	<a href="https://www.android.com/intl/pt-BR_br/" ><img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></a>
 </div>
-	
-<div align="center">
- ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Analytic&fontSize=40)
 
-<h2>## Snake Game: </h2>
-</div>
+![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Analytic&fontSize=40)
+
+<div align="center">
 	
 ![GitHub Snake Light](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/fabiohcnobre/fabiohcnobre/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 	
+</div>
