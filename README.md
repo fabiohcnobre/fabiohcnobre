@@ -10,8 +10,7 @@ Content creator and programming developer!
 
 Enthusiast of the best web & mobile development technologies.
 
-
-<div align="center"><br>
+<div align="center"></br>
    ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Technologies&fontSize=40)
 
 	<a href="https://github.com" ><img align="center" alt="Fabio-github" height="30" width="40" fill="#5A45FF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </a>
