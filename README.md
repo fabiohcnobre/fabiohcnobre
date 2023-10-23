@@ -1,4 +1,6 @@
-# Hello world! I'm Fabio Nobre, 
+# Hello ~~world~~ Github! 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3942E4&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Fabio+H+C+Nobre.;I+am+FULL+STACK+DEVELOPER.;)](https://git.io/typing-svg)<br><br>
 
 [![Twitter Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=FFFF00&logo=twitter&logoColor=black&link=https://twitter.com/fabiohcnobre)](https://twitter.com/fabiohcnobre) 
 [![Linkedin Badge](https://img.shields.io/badge/-fabiohcnobre-FFFF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/fabiohcnobre/) 
