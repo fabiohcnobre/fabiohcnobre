@@ -24,7 +24,8 @@ Enthusiast of the best web & mobile development technologies.
 	<a href="https://www.java.com/" ><img align="center" alt="Fabio-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 	<a href="https://visualstudio.microsoft.com/" ><img align="center" alt="Fabio-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a>
 	<a href="https://www.nuget.org/" ><img align="center" alt="Fabio-nuget" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg"></a>
-	<a href="https://www.android.com/intl/pt-BR_br/" ><img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></a>
+	<a href="https://www.android.com/intl/pt-BR_br/" ><img align="center" alt="Fabio-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></a>	
+	<a href="https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps/blazor" ><img align="center" alt="Fabio-github" height="30" width="40" fill="#5A45FF" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg"> </a>
 </div>
 <br/>
 
