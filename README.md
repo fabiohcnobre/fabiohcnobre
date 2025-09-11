@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3942E4&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Fabio+H+C+Nobre.;I+am+FULL+STACK+DEVELOPER.;)](https://git.io/typing-svg)<br><br>
 
+[![X Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=x&logoColor=black&link=https://x.com/fabiohcnobre)](https://x.com/fabiohcnobre) 
 [![Bluesky Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=FFFF00&logo=bluesky&logoColor=black&link=https://bsky.app/profile/fabiohcnobre.dev.br)](https://bsky.app/profile/fabiohcnobre.dev.br) 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-fabiohcnobre-FFFF00?style=flat-square&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/fabiohcnobre/)](https://www.linkedin.com/in/fabiohcnobre/) 
 [![Microsoftoutlook Badge](https://img.shields.io/badge/Email-fabiohcnobre@hotmail.com-0511F2?style=flat-square&logo=gmail&logoColor=white&link=mailto:fabiohcnobre@hotmail.com)](mailto:fabiohcnobre@hotmail.com)
