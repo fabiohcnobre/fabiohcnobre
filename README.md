@@ -5,7 +5,7 @@
 [![X Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=x&logoColor=black&link=https://x.com/fabiohcnobre)](https://x.com/fabiohcnobre) 
 [![Bluesky Badge](https://img.shields.io/badge/-@fabiohcnobre-FFFF00?style=flat-square&labelColor=FFFF00&logo=bluesky&logoColor=black&link=https://bsky.app/profile/fabiohcnobre.dev.br)](https://bsky.app/profile/fabiohcnobre.dev.br) 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-fabiohcnobre-FFFF00?style=flat-square&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/fabiohcnobre/)](https://www.linkedin.com/in/fabiohcnobre/) 
-[![Microsoftoutlook Badge](https://img.shields.io/badge/Email-fabiohcnobre@hotmail.com-0511F2?style=flat-square&logo=gmail&logoColor=white&link=mailto:fabiohcnobre@hotmail.com)](mailto:fabiohcnobre@hotmail.com)
+[![Microsoftoutlook Badge](https://img.shields.io/badge/-fabiohcnobre@hotmail.com-0511F2?style=flat-square&logo=gmail&logoColor=white&link=mailto:fabiohcnobre@hotmail.com)](mailto:fabiohcnobre@hotmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-youtube/fabiohcnobre-FF0D0D?style=flat-square&logo=Youtube&logoColor=white&link=fabiohcnobre)](https://www.youtube.com/fabiohcnobre)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch/fabiohcnobre-0DF205?style=flat-square&logo=Twitch&logoColor=white&link=fabiohcnobre)](https://www.twitch.com/fabiohcnobre)
 
