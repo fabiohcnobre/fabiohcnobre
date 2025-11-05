@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Insights
 <details>
-  <summary>Show stats / Mostrar estatísticas</summary>
+  <summary> 👆 Show stats / Mostrar estatísticas</summary>
   <br>
 	<div align="center">
 	<br/>	
